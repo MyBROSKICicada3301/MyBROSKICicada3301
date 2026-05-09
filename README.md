@@ -37,13 +37,17 @@
 
 ### Open Source
 - https://github.com/RoboTeamTwente/ERC-Embedded  
-  Contributed to embedded systems development for autonomous rover project. Especially the sensor board embedded functionallity (Still currently working on it)
+  Contributed to embedded systems development for an autonomous robotics project.
 
 - https://github.com/RoboTeamTwente/RoboTeam-website  
   Worked on the team’s website, improving structure and usability.
 
 - https://github.com/dev-innopi/democonverter  
   Contributed to a tool focused on data and format conversion workflows.
+
+- https://github.com/dev-innopi/kyrogenius-54  
+  Contributed to the development of a production website, including work on the Finarc page (https://aikyro.com/finarc).  
+  Improved formatting, fixed broken links, and enhanced overall usability.
 
 ### Personal Projects
 - https://github.com/MyBROSKICicada3301/Booking-Amenities-Application  
@@ -53,7 +57,7 @@
   Application project focused on core functionality and system design.
 
 - https://github.com/MyBROSKICicada3301/F1  
-  Project exploring Formula 1 data and analysis.
+  Project exploring Formula 1 data, analysis, or simulation concepts.
 
 ### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
