@@ -19,7 +19,7 @@
 <hr>
 
 <!-- Personal details section -->
-I am an undergraduate student at the <strong>University of Twente</strong>, in my third year of a BSc in <strong>Technical Computer Science</strong>. A tech lover and problem solver who loves tinkering with things that either shouldn't be tinkered with, or that are yet to be tinkered with.
+I am a 3rd-year Technical Computer Science student at the University of Twente. Part-time problem solver, full-time tech enthusiast. I thrive on tinkering with systems that "shouldn't" be touched and am always looking for meaningful projects that make a real impact. Welcome to my digital sandbox!
 
 <details>
   <summary><b>🛠 Tech Stack</b></summary><br>
