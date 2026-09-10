@@ -45,7 +45,7 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
 </div>
 
 <div align="center">
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=MyBROSKICicada3301&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img height="140em" src="https://streak-stats.demolab.com/?user=MyBROSKICicada3301&theme=radical&hide_border=true" alt="GitHub streak" />
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MyBROSKICicada3301&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub summary stats" />
 </div>
 
