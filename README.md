@@ -76,12 +76,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="169em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MyBROSKICicada3301&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img height="169em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MyBROSKICicada3301&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyBROSKICicada3301&theme=tokyonight" alt="Profile details" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MyBROSKICicada3301&theme=tokyonight" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MyBROSKICicada3301&theme=github_dark&no-frame=true&margin-w=4&column=7" alt="GitHub trophies" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MyBROSKICicada3301&theme=tokyonight" alt="Repos per language" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MyBROSKICicada3301&theme=tokyonight" alt="Most-committed languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MyBROSKICicada3301&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <!-- Break for spacing -->
