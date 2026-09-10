@@ -17,12 +17,7 @@
 <hr>
 
 <!-- Personal details section -->
-🧑‍💻 <strong>Full-Stack Developer</strong> <br />
-⚙️ Comfortable across the stack — embedded systems, back-end services, modern web front-ends, and data/ML tooling <br />
-💬 Ask me about <strong>React, Vue.js, Spring, FastAPI, Flask, Python</strong> <br />
-🌱 Contributing to open source with <strong>RoboTeam Twente</strong> and <strong>dev-innopi</strong> <br />
-👁️ Looking for <strong>open source contributions</strong> <br />
-⚡ Fun fact: my username is a nod to <strong>Cicada 3301</strong>
+I am an undergraduate student at the <strong>University of Twente</strong>, in my third year of a BSc in <strong>Technical Computer Science</strong>. A tech lover and problem solver who loves tinkering with things that either shouldn't be tinkered with, or that are yet to be tinkered with.
 
 <details>
   <summary><b>🛠 Tech Stack</b></summary><br>
