@@ -39,16 +39,11 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Frontend</b></td>
+    <td align="right"><b>Frontend&nbsp;&amp;&nbsp;Backend</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="Vue.js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="JavaFX" />&nbsp;<sub>JavaFX</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="JavaFX" /><sub>FX</sub>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask" />&nbsp;
@@ -56,25 +51,15 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Databases</b></td>
+    <td align="right"><b>Data&nbsp;&amp;&nbsp;Design</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="38" alt="Supabase" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="38" alt="Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Data / ML</b></td>
-    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="38" alt="Firebase" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>Design</b></td>
-    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="Figma" />
     </td>
   </tr>
