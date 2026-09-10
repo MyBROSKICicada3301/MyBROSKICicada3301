@@ -103,9 +103,16 @@
 <details open>
   <summary><b>Personal Projects</b></summary><br>
 
-- **[Booking-Amenities-Application](https://github.com/MyBROSKICicada3301/Booking-Amenities-Application)** — full-stack Flask app for booking party halls and shared sports amenities, with QR/UPI payments and a MySQL + SQLAlchemy backend.
+- **[UpThere](https://github.com/MyBROSKICicada3301/UpThere)** — real-time 3D satellite and debris tracker; the full public catalog (~36,000 objects) rendered on an interactive globe with positions propagated live via SGP4 and Web Workers. TypeScript / Three.js, with a Windows desktop build.
+- **[FPL-Teamsheet](https://github.com/MyBROSKICicada3301/FPL-Teamsheet)** — Fantasy Premier League decision assistant that works out which transfers clear the points hit, who to captain, and when to play a chip, showing the arithmetic behind every call. Zero-install Python + web UI.
+- **[Exegol-Vault](https://github.com/MyBROSKICicada3301/Exegol-Vault)** — password manager with a bcrypt-hashed master password and per-entry Fernet encryption keyed from it, backed by PostgreSQL, so nothing readable ever touches the database.
+- **[Code-Symphony-Compiler](https://github.com/MyBROSKICicada3301/Code-Symphony-Compiler)** — experimental system that treats C source as a musical score, mapping syntax, data types, control flow, and memory behaviour to a layered live composition. TypeScript.
+- **[atomic-clock](https://github.com/MyBROSKICicada3301/atomic-clock)** — real-time world clock with millisecond precision, a Google Maps location picker, and AI location facts via Gemini. Vue.js 3 + Vite, deployed on Firebase Hosting.
 - **[SWISHR](https://github.com/MyBROSKICicada3301/SWISHR)** — Vue.js web app that helps basketball players record, analyze, and improve their shooting form using AI-powered pose estimation (MediaPipe Pose).
 - **[F1](https://github.com/MyBROSKICicada3301/F1)** — interactive Streamlit dashboard for exploring Formula 1 race data, telemetry, and driver comparisons, built on FastF1.
+- **[Hand-Gesture-Analyzer](https://github.com/MyBROSKICicada3301/Hand-Gesture-Analyzer)** — real-time webcam hand detection and per-hand finger counting with landmark overlays and detection logging. Python, MediaPipe, OpenCV.
+- **[Currency-Converter](https://github.com/MyBROSKICicada3301/Currency-Converter)** — self-contained currency converter web UI covering 77 Yahoo Finance currencies with real-time rates, ECB/Open Exchange Rates fallbacks, caching, and historical charts. Python / Flask.
+- **[Booking-Amenities-Application](https://github.com/MyBROSKICicada3301/Booking-Amenities-Application)** — full-stack Flask app for booking party halls and shared sports amenities, with QR/UPI payments and a MySQL + SQLAlchemy backend.
 
 </details>
 
