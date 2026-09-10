@@ -23,50 +23,35 @@
 <!-- Personal details section -->
 I am a 3rd-year Technical Computer Science student at the University of Twente. Part-time problem solver, full-time tech enthusiast. I thrive on tinkering with systems that "shouldn't" be touched and am always looking for meaningful projects that make a real impact. Off the clock, I am a devoted Marvel and Star Wars fanatic. Welcome to my digital sandbox!
 
-<details>
-  <summary><b>Arsenal</b></summary><br>
-  <div align="center">
-    <div style="margin-bottom: 6px;">
-      <b>Languages</b><br>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height: 20px;" />
-    </div>
-    <div style="margin-bottom: 6px;">
-      <b>Frontend</b><br>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" style="height: 20px;" />
-    </div>
-    <div style="margin-bottom: 6px;">
-      <b>Backend</b><br>
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" style="height: 20px;" />
-    </div>
-    <div style="margin-bottom: 6px;">
-      <b>Databases</b><br>
-      <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" style="height: 20px;" />
-    </div>
-    <div style="margin-bottom: 6px;">
-      <b>Data / ML</b><br>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" style="height: 20px;" />
-    </div>
-    <div style="margin-bottom: 6px;">
-      <b>Design</b><br>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="height: 20px;" />
-    </div>
-  </div>
-</details>
+<!-- Tech stack -->
+## Infinity Stones
+
+<table align="center">
+  <tr>
+    <td align="right"><b>Space&nbsp;·&nbsp;Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,java,python,js,html,css" height="42" alt="C, Java, Python, JavaScript, HTML5, CSS3" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Mind&nbsp;·&nbsp;Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue" height="42" alt="React, Vue.js" /> <sub>+ JavaFX</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Reality&nbsp;·&nbsp;Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,fastapi,flask" height="42" alt="Spring, FastAPI, Flask" /> <sub>+ Apache Tomcat</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Power&nbsp;·&nbsp;Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" height="42" alt="PostgreSQL, MySQL, Supabase, Firebase" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Time&nbsp;·&nbsp;Data&nbsp;/&nbsp;ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow" height="42" alt="TensorFlow" /> <sub>+ pandas, NumPy</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Soul&nbsp;·&nbsp;Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" /></td>
+  </tr>
+</table>
 
 <!-- GitHub Stats -->
 ## Imperial Records
@@ -80,26 +65,20 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
 <!-- Top contributions -->
 ## Campaigns
 
-<details>
-  <summary><b>Alliance Contributions &mdash; Open Source</b></summary><br>
+**Alliance Contributions &mdash; Open Source**
 
 - **[RoboTeam Twente — ERC-Embedded](https://github.com/RoboTeamTwente/ERC-Embedded)** — embedded systems for an autonomous robotics project.
 - **[RoboTeam Twente — Website](https://github.com/RoboTeamTwente/RoboTeam-website)** — improved the team website's structure and usability.
 - **[dev-innopi — democonverter](https://github.com/dev-innopi/democonverter)** — data and format conversion tool.
 - **[dev-innopi — kyrogenius-54](https://github.com/dev-innopi/kyrogenius-54)** — production website incl. the [Finarc page](https://aikyro.com/finarc); fixed formatting and broken links.
 
-</details>
-
-<details>
-  <summary><b>Solo Missions &mdash; Personal Projects</b></summary><br>
+**Solo Missions &mdash; Personal Projects**
 
 - **[UpThere](https://github.com/MyBROSKICicada3301/UpThere)** — real-time 3D satellite & debris tracker (~36k objects) with live SGP4 propagation. TypeScript / Three.js.
 - **[FPL-Teamsheet](https://github.com/MyBROSKICicada3301/FPL-Teamsheet)** — Fantasy Premier League transfer, captain & chip advisor that shows the arithmetic behind every call. Python + web UI.
 - **[Exegol-Vault](https://github.com/MyBROSKICicada3301/Exegol-Vault)** — password manager with a bcrypt master and per-entry Fernet encryption over PostgreSQL.
 - **[atomic-clock](https://github.com/MyBROSKICicada3301/atomic-clock)** — millisecond world clock with a Maps picker and Gemini location facts. Vue 3 + Vite on Firebase.
 - **[F1](https://github.com/MyBROSKICicada3301/F1)** — Streamlit dashboard for Formula 1 race data, telemetry & driver comparisons, built on FastF1.
-
-</details>
 
 <!-- Random dev quote -->
 <div align="center">
