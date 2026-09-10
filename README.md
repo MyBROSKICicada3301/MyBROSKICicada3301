@@ -1,9 +1,11 @@
 <!-- Animated typing title with my name -->
 <h1 align="center">
   <a href="https://github.com/MyBROSKICicada3301">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=60&lines=Shishir+S.+Nambiar" alt="Shishir S. Nambiar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=E23140&center=true&vCenter=true&width=600&height=60&lines=Shishir+S.+Nambiar" alt="Shishir S. Nambiar" />
   </a>
 </h1>
+
+<p align="center"><i>Give in to the pull of a good problem.</i></p>
 
 <!-- Social links centered under the header -->
 <p align="center">
@@ -22,7 +24,7 @@
 I am a 3rd-year Technical Computer Science student at the University of Twente. Part-time problem solver, full-time tech enthusiast. I thrive on tinkering with systems that "shouldn't" be touched and am always looking for meaningful projects that make a real impact. Welcome to my digital sandbox!
 
 <details>
-  <summary><b>🛠 Tech Stack</b></summary><br>
+  <summary><b>Arsenal</b></summary><br>
   <div align="center">
     <div style="margin-bottom: 10px;">
       <b>Languages</b><br>
@@ -70,30 +72,30 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
 <br>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## Imperial Records
 
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyBROSKICicada3301&theme=tokyonight" alt="Profile details" />
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MyBROSKICicada3301&theme=tokyonight" alt="GitHub stats" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyBROSKICicada3301&theme=radical" alt="Profile details" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MyBROSKICicada3301&theme=radical" alt="GitHub stats" />
 </div>
 
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MyBROSKICicada3301&theme=tokyonight" alt="Repos per language" />
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MyBROSKICicada3301&theme=tokyonight" alt="Most-committed languages" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MyBROSKICicada3301&theme=radical" alt="Repos per language" />
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MyBROSKICicada3301&theme=radical" alt="Most-committed languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MyBROSKICicada3301&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=MyBROSKICicada3301&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
 
 <!-- Break for spacing -->
 <br>
 
 <!-- Top contributions -->
-## 🤝 Top Contributions
+## Campaigns
 
 <details open>
-  <summary><b>Open Source</b></summary><br>
+  <summary><b>Alliance Contributions &mdash; Open Source</b></summary><br>
 
 - **[RoboTeam Twente — ERC-Embedded](https://github.com/RoboTeamTwente/ERC-Embedded)** — embedded systems development for an autonomous robotics project.
 - **[RoboTeam Twente — Website](https://github.com/RoboTeamTwente/RoboTeam-website)** — improved the team website's structure and usability.
@@ -103,7 +105,7 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
 </details>
 
 <details open>
-  <summary><b>Personal Projects</b></summary><br>
+  <summary><b>Solo Missions &mdash; Personal Projects</b></summary><br>
 
 - **[UpThere](https://github.com/MyBROSKICicada3301/UpThere)** — real-time 3D satellite and debris tracker; the full public catalog (~36,000 objects) rendered on an interactive globe with positions propagated live via SGP4 and Web Workers. TypeScript / Three.js, with a Windows desktop build.
 - **[FPL-Teamsheet](https://github.com/MyBROSKICicada3301/FPL-Teamsheet)** — Fantasy Premier League decision assistant that works out which transfers clear the points hit, who to captain, and when to play a chip, showing the arithmetic behind every call. Zero-install Python + web UI.
@@ -118,7 +120,7 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
 
 <!-- Random dev quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </div>
 
 <hr>
