@@ -1,15 +1,17 @@
-<!-- Main heading centered with LinkedIn profile link -->
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/shishir-s-nambiar/">Shishir</a></h1>
+<!-- Animated typing title with my name -->
+<h1 align="center">
+  <a href="https://github.com/MyBROSKICicada3301">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&height=60&lines=Shishir+S.+Nambiar" alt="Shishir S. Nambiar" />
+  </a>
+</h1>
 
 <!-- Social links centered under the header -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/shishir-s-nambiar/">LinkedIn</a> -
-  <a href="https://github.com/MyBROSKICicada3301">GitHub</a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/shishir-s-nambiar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MyBROSKICicada3301">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
