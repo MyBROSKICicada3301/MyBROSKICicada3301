@@ -105,7 +105,6 @@
 
 - **[UpThere](https://github.com/MyBROSKICicada3301/UpThere)** — real-time 3D satellite and debris tracker; the full public catalog (~36,000 objects) rendered on an interactive globe with positions propagated live via SGP4 and Web Workers. TypeScript / Three.js, with a Windows desktop build.
 - **[FPL-Teamsheet](https://github.com/MyBROSKICicada3301/FPL-Teamsheet)** — Fantasy Premier League decision assistant that works out which transfers clear the points hit, who to captain, and when to play a chip, showing the arithmetic behind every call. Zero-install Python + web UI.
-- **[Exegol-Vault](https://github.com/MyBROSKICicada3301/Exegol-Vault)** — password manager with a bcrypt-hashed master password and per-entry Fernet encryption keyed from it, backed by PostgreSQL, so nothing readable ever touches the database.
 - **[atomic-clock](https://github.com/MyBROSKICicada3301/atomic-clock)** — real-time world clock with millisecond precision, a Google Maps location picker, and AI location facts via Gemini. Vue.js 3 + Vite, deployed on Firebase Hosting.
 - **[F1](https://github.com/MyBROSKICicada3301/F1)** — interactive Streamlit dashboard for exploring Formula 1 race data, telemetry, and driver comparisons, built on FastF1.
 
