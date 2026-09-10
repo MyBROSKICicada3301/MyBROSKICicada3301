@@ -28,28 +28,55 @@ I am a 3rd-year Technical Computer Science student at the University of Twente. 
 
 <table align="center">
   <tr>
-    <td align="right"><b>Space&nbsp;·&nbsp;Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,java,python,js,html,css" height="42" alt="C, Java, Python, JavaScript, HTML5, CSS3" /></td>
+    <td align="right"><b>Languages</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="C" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
+    </td>
   </tr>
   <tr>
-    <td align="right"><b>Mind&nbsp;·&nbsp;Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,vue" height="42" alt="React, Vue.js" /> <sub>+ JavaFX</sub></td>
+    <td align="right"><b>Frontend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="Vue.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="JavaFX" />&nbsp;<sub>JavaFX</sub>
+    </td>
   </tr>
   <tr>
-    <td align="right"><b>Reality&nbsp;·&nbsp;Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=spring,fastapi,flask" height="42" alt="Spring, FastAPI, Flask" /> <sub>+ Apache Tomcat</sub></td>
+    <td align="right"><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="38" alt="Flask" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="38" alt="Apache Tomcat" />
+    </td>
   </tr>
   <tr>
-    <td align="right"><b>Power&nbsp;·&nbsp;Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" height="42" alt="PostgreSQL, MySQL, Supabase, Firebase" /></td>
+    <td align="right"><b>Databases</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="38" alt="Supabase" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="38" alt="Firebase" />
+    </td>
   </tr>
   <tr>
-    <td align="right"><b>Time&nbsp;·&nbsp;Data&nbsp;/&nbsp;ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=tensorflow" height="42" alt="TensorFlow" /> <sub>+ pandas, NumPy</sub></td>
+    <td align="right"><b>Data / ML</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="NumPy" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="TensorFlow" />
+    </td>
   </tr>
   <tr>
-    <td align="right"><b>Soul&nbsp;·&nbsp;Design</b></td>
-    <td><img src="https://skillicons.dev/icons?i=figma" height="42" alt="Figma" /></td>
+    <td align="right"><b>Design</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="Figma" />
+    </td>
   </tr>
 </table>
 
