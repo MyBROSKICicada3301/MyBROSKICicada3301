@@ -1,112 +1,122 @@
-<h1 align="center">Shishir S. Nambiar</h1>
-<p align="center">Full-Stack Developer</p>
+<!-- Main heading centered with LinkedIn profile link -->
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/shishir-s-nambiar/">Shishir</a></h1>
+
+<!-- Social links centered under the header -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shishir-s-nambiar/">LinkedIn</a> -
+  <a href="https://github.com/MyBROSKICicada3301">GitHub</a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shishir-s-nambiar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/MyBROSKICicada3301">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
----
+<!-- Horizontal line for separation -->
+<hr>
 
-## About
+<!-- Personal details section -->
+🧑‍💻 <strong>Full-Stack Developer</strong> <br />
+⚙️ Comfortable across the stack — embedded systems, back-end services, modern web front-ends, and data/ML tooling <br />
+💬 Ask me about <strong>React, Vue.js, Spring, FastAPI, Flask, Python</strong> <br />
+🌱 Contributing to open source with <strong>RoboTeam Twente</strong> and <strong>dev-innopi</strong> <br />
+👁️ Looking for <strong>open source contributions</strong> <br />
+⚡ Fun fact: my username is a nod to <strong>Cicada 3301</strong>
 
-Full-stack developer working across the stack — from embedded systems and back-end services to modern web front-ends and data/ML tooling. I contribute to open source with RoboTeam Twente and dev-innopi, and build personal projects spanning full-stack applications, computer-vision web apps, and sports data analysis.
+<details>
+  <summary><b>🛠 Tech Stack</b></summary><br>
+  <div align="center">
+    <div style="margin-bottom: 10px;">
+      <b>Languages</b><br>
+      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Frontend</b><br>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Backend</b><br>
+      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Databases</b><br>
+      <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Data / ML</b><br>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" style="height: 20px;" />
+    </div>
+    <div style="margin-bottom: 10px;">
+      <b>Design</b><br>
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" style="height: 20px;" />
+    </div>
+  </div>
+</details>
 
----
+<!-- Break for spacing -->
+<br>
 
-## Tech Stack
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-**Languages**
+<div align="center">
+  <img height="169em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MyBROSKICicada3301&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
+  <img height="169em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MyBROSKICicada3301&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white)
-
-**Backend**
-
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
-
-**Data / ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MyBROSKICicada3301&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MyBROSKICicada3301&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MyBROSKICicada3301&theme=github_dark&no-frame=true&margin-w=4&column=7" alt="GitHub trophies" />
-</p>
+</div>
 
----
+<!-- Break for spacing -->
+<br>
 
-## Top Contributions
+<!-- Top contributions -->
+## 🤝 Top Contributions
 
-### Open Source
+<details open>
+  <summary><b>Open Source</b></summary><br>
 
-- **[RoboTeam Twente — ERC-Embedded](https://github.com/RoboTeamTwente/ERC-Embedded)**
-  Embedded systems development for an autonomous robotics project.
+- **[RoboTeam Twente — ERC-Embedded](https://github.com/RoboTeamTwente/ERC-Embedded)** — embedded systems development for an autonomous robotics project.
+- **[RoboTeam Twente — Website](https://github.com/RoboTeamTwente/RoboTeam-website)** — improved the team website's structure and usability.
+- **[dev-innopi — democonverter](https://github.com/dev-innopi/democonverter)** — a data and format conversion tool.
+- **[dev-innopi — kyrogenius-54](https://github.com/dev-innopi/kyrogenius-54)** — production website work including the [Finarc page](https://aikyro.com/finarc); fixed formatting and broken links, improved usability.
 
-- **[RoboTeam Twente — Website](https://github.com/RoboTeamTwente/RoboTeam-website)**
-  Improved the team website's structure and usability.
+</details>
 
-- **[dev-innopi — democonverter](https://github.com/dev-innopi/democonverter)**
-  A data and format conversion tool.
+<details open>
+  <summary><b>Personal Projects</b></summary><br>
 
-- **[dev-innopi — kyrogenius-54](https://github.com/dev-innopi/kyrogenius-54)**
-  Production website work, including the [Finarc page](https://aikyro.com/finarc) — fixed formatting and broken links, improved usability.
+- **[Booking-Amenities-Application](https://github.com/MyBROSKICicada3301/Booking-Amenities-Application)** — full-stack Flask app for booking party halls and shared sports amenities, with QR/UPI payments and a MySQL + SQLAlchemy backend.
+- **[SWISHR](https://github.com/MyBROSKICicada3301/SWISHR)** — Vue.js web app that helps basketball players record, analyze, and improve their shooting form using AI-powered pose estimation (MediaPipe Pose).
+- **[F1](https://github.com/MyBROSKICicada3301/F1)** — interactive Streamlit dashboard for exploring Formula 1 race data, telemetry, and driver comparisons, built on FastF1.
 
-### Personal Projects
+</details>
 
-- **[Booking-Amenities-Application](https://github.com/MyBROSKICicada3301/Booking-Amenities-Application)**
-  Full-stack Flask app for booking party halls and shared sports amenities, with QR/UPI payments and a MySQL + SQLAlchemy backend.
+<!-- Break for spacing -->
+<br>
 
-- **[SWISHR](https://github.com/MyBROSKICicada3301/SWISHR)**
-  Vue.js web app that helps basketball players record, analyze, and improve their shooting form using AI-powered pose estimation (MediaPipe Pose).
-
-- **[F1](https://github.com/MyBROSKICicada3301/F1)**
-  Interactive Streamlit dashboard for exploring Formula 1 race data, telemetry, and driver comparisons, built on FastF1.
-
----
-
-<p align="center">
+<!-- Random dev quote -->
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</p>
+</div>
 
----
+<hr>
 
 The force is strong… but so are my runtime errors.
