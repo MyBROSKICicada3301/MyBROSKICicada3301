@@ -21,7 +21,7 @@
 <hr>
 
 <!-- Personal details section -->
-I am a 3rd-year Technical Computer Science student at the University of Twente. Part-time problem solver, full-time tech enthusiast. I thrive on tinkering with systems that "shouldn't" be touched and am always looking for meaningful projects that make a real impact. Welcome to my digital sandbox!
+I am a 3rd-year Technical Computer Science student at the University of Twente. Part-time problem solver, full-time tech enthusiast. I thrive on tinkering with systems that "shouldn't" be touched and am always looking for meaningful projects that make a real impact. Off the clock, I am a devoted Marvel and Star Wars fanatic. Welcome to my digital sandbox!
 
 <details>
   <summary><b>Arsenal</b></summary><br>
