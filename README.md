@@ -1,6 +1,6 @@
 <!-- ASCII portrait next to the animated name -->
 <h1 align="center">
-  <img src="ascii-portrait.svg" height="140" align="middle" alt="ASCII portrait of Shishir" />
+  <img src="ascii-portrait.png" height="140" align="middle" alt="ASCII portrait of Shishir" />
   <a href="https://github.com/MyBROSKICicada3301">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=E23140&center=true&vCenter=true&width=420&height=60&lines=Shishir+S.+Nambiar" align="middle" alt="Shishir S. Nambiar" />
   </a>
