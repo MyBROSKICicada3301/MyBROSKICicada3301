@@ -1,45 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="496" height="456" viewBox="0 0 496 456">
+<svg xmlns="http://www.w3.org/2000/svg" width="446" height="361" viewBox="0 0 446 361">
 <rect width="100%" height="100%" rx="8" fill="#0d1117"/>
 <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="10" fill="#e6edf3" xml:space="preserve">
-<text x="8" y="17" textLength="480" lengthAdjust="spacingAndGlyphs">+++++++++++++++++=++======-......  ..-===+++++++=-:.. ........ .-===+++=========</text>
-<text x="8" y="28" textLength="480" lengthAdjust="spacingAndGlyphs">+++++=+++++==============....     ..  .  ................    .:=================</text>
-<text x="8" y="39" textLength="480" lengthAdjust="spacingAndGlyphs">+++++++++++=====+++======-.........................:-=====:..================+==</text>
-<text x="8" y="50" textLength="480" lengthAdjust="spacingAndGlyphs">+++++======+++++=======++=+=-....:======:.........-++++++++++++++++++++=++====++</text>
-<text x="8" y="61" textLength="480" lengthAdjust="spacingAndGlyphs">+=+++++++++++++=++=========++===+++++++++.........-++++++=====+=++++++++++++++++</text>
-<text x="8" y="72" textLength="480" lengthAdjust="spacingAndGlyphs">+++++++++=+++++++++++++++++++++++++++++++:........=+====++++++++++++++++++++=+++</text>
-<text x="8" y="83" textLength="480" lengthAdjust="spacingAndGlyphs">+++++++++++++++++++****++++++++++++++++***++=====+++========+++++++++++++===+=++</text>
-<text x="8" y="94" textLength="480" lengthAdjust="spacingAndGlyphs">++++********++*++***++++++++++**######***#**##*#+++===++++++++++++++++++++++++++</text>
-<text x="8" y="105" textLength="480" lengthAdjust="spacingAndGlyphs">+++++==++++*+++******+++++++*####*##%%%%%%%#######++++++++++++++++++++++++++++++</text>
-<text x="8" y="116" textLength="480" lengthAdjust="spacingAndGlyphs">==++=+++=+++*+*****++++++**#%%%%%#%%%%%#%%%%%%%%###%+++*++++++++++++++++++++++++</text>
-<text x="8" y="127" textLength="480" lengthAdjust="spacingAndGlyphs">++=++++++++++****++++++++##%%%%%%%%###%%%%%%%%%%%###**++++++++*+++++++++++++++*+</text>
-<text x="8" y="138" textLength="480" lengthAdjust="spacingAndGlyphs">=+**************++******#%#%%%%#*+==--*#####*+#%%%%%%%*+++**+++++++++********+++</text>
-<text x="8" y="149" textLength="480" lengthAdjust="spacingAndGlyphs"> .....:--==+++=====+*+++#%%%%#*===--:::::::::-==+%%%###++++++++++==--:::........</text>
-<text x="8" y="160" textLength="480" lengthAdjust="spacingAndGlyphs">  .            ..::--==*%%%%%#+=----:::::::::--==*%%%##.                        </text>
-<text x="8" y="171" textLength="480" lengthAdjust="spacingAndGlyphs">.  .... ...   ..   ..  -%%%%%#***++***++++**+====#%#%%+                         </text>
-<text x="8" y="182" textLength="480" lengthAdjust="spacingAndGlyphs">%%#*=::........ ..   ...#%%%%++***#****-*##*++++*#%%%*.      ....  ...  ....:-=+</text>
-<text x="8" y="193" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@%%%#+=-::.....+**#+=--::---=:.:=+++**+*#%%%*..:::-=+**#%%%%%%%@@%%%%%%</text>
-<text x="8" y="204" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@@@@@@@@@@%%%*===+=----=+---:::-::.:==*%#*%%%#%%%%%%%%%%%%%%@@@%%%%%%</text>
-<text x="8" y="215" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@@@@@@@@@%@@@%+==++++*+==+*##*+-==---=+==+%%%%#%%%%%%%%%%%%%@@@%%%%%%</text>
-<text x="8" y="226" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@@@@@@@@@@@@@@@%@@@@%%%*+*++===*+====+++++*+==--+#%%#%%%%%%%%%%%%%%%%@@@%%%%%</text>
-<text x="8" y="237" textLength="480" lengthAdjust="spacingAndGlyphs">@@@##@@@@@@@@%%@@@%%%%%%%%%%#++==--====--==--=++=:###%%####%%%%%%%%%%%%@@@@%%%%%</text>
-<text x="8" y="248" textLength="480" lengthAdjust="spacingAndGlyphs">@@@#=#@@@@@@@@%%%%%%%%%%%%%%%**++=---::-----+++#%%%%##%%######%%%%%%%%%@@@@%%%%%</text>
-<text x="8" y="259" textLength="480" lengthAdjust="spacingAndGlyphs">@@@#=+%@@@@%%%%%%%%%%%%%%%%%%*##**+++======++**%%%%%##%%#######%%%%%%%%%%%%%%%%%</text>
-<text x="8" y="270" textLength="480" lengthAdjust="spacingAndGlyphs">@@@#==+@@@@%%%%%%%%%%%%%%%%%%+*##%%%%%%######+=%%%%%##%%########%%%%%%%%%#%%%%%%</text>
-<text x="8" y="281" textLength="480" lengthAdjust="spacingAndGlyphs">@@@%+==#@@%%%%%%%%%%%%%%%%%%#++*##%%%%%%%##*===#%%%%%############%%%%%%%@%#%%%%%</text>
-<text x="8" y="292" textLength="480" lengthAdjust="spacingAndGlyphs">@@@%+===%%%%%%%%%%%%%%%%%%#+#+++**######*+===-++#%%%%###########%%%%%%%%@%+%%%%%</text>
-<text x="8" y="303" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@+===#%%%%%%%%%%%%%%%%*+**++++++++=====----=*+*#%%######**####%%%%%%%@%+%%%%%</text>
-<text x="8" y="314" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@*===+%%%%%%%%%%%#+===++**++=++**++++==-----*++=+######****###%%%%%%%@%*#%%%%</text>
-<text x="8" y="325" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@*+===#%%%%%%*======+++*+++++==++++===-----++++==-==*##*****##%%%%%%%%#+#%%%%</text>
-<text x="8" y="336" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@*==--*%#+-====++=**=++**++=++==+======---++++========-+*****#%%%%%%%%*=+%%%%</text>
-<text x="8" y="347" textLength="480" lengthAdjust="spacingAndGlyphs">@@@@+--=--======+==++++==++**+=-====+===--:-*++=======++====--=*#%%%%%%%%+=-*%%%</text>
-<text x="8" y="358" textLength="480" lengthAdjust="spacingAndGlyphs">@@@%=-=========+=++**++==+*%%%%%#-:::--::-+**+=========++======--=#%%%%%%=--=%%%</text>
-<text x="8" y="369" textLength="480" lengthAdjust="spacingAndGlyphs">@@@%-==++=+*====+*+*+++**+***#*#%%#-:::=++++++===++**++++=++======--+%%%#+=--*%%</text>
-<text x="8" y="380" textLength="480" lengthAdjust="spacingAndGlyphs">%@@%=+++*+++#+=+*++++++++++****+**+**++++=++++*#**+++++++=++++++====-=%%+=----%%</text>
-<text x="8" y="391" textLength="480" lengthAdjust="spacingAndGlyphs">%%%+++*+*+++#++*+++++++++++++*+++++==*#%%%%#*++++++=+++++=++*+++++++==+%==----=%</text>
-<text x="8" y="402" textLength="480" lengthAdjust="spacingAndGlyphs">%%**++**+#++****+++++++++++++**++*#***##****++++++++=+++*+++*+++*+++===%-------#</text>
-<text x="8" y="413" textLength="480" lengthAdjust="spacingAndGlyphs">%%+********+****+++++++++++++**+*++*++**++++++++++++++++*++**+******+===--=-:--+</text>
-<text x="8" y="424" textLength="480" lengthAdjust="spacingAndGlyphs">%+********#*#***+++++++++++++**+**+***++++++++++++++++++*++*#********===--------</text>
-<text x="8" y="435" textLength="480" lengthAdjust="spacingAndGlyphs">#++****#*####**--+:.......:+++*+******+*+.-==+++++++++++++*+##*******+==-------=</text>
-<text x="8" y="446" textLength="480" lengthAdjust="spacingAndGlyphs">+++*#**##**%##==:-=.:--=++++++**+#**#*+*=--=-=-.....=++++***##*******+===------+</text>
+<text x="10" y="19" textLength="270" lengthAdjust="spacingAndGlyphs">                            ##**#***#%###***#</text>
+<text x="10" y="30" textLength="282" lengthAdjust="spacingAndGlyphs">                         **############**###*#*</text>
+<text x="10" y="41" textLength="294" lengthAdjust="spacingAndGlyphs">                       *#####*#%%%%##%##%###%####</text>
+<text x="10" y="52" textLength="306" lengthAdjust="spacingAndGlyphs">                      #*#%%%%%##%%%%%%%%%%%%%####**</text>
+<text x="10" y="63" textLength="306" lengthAdjust="spacingAndGlyphs">                     ###%%%%%%%#*+#%%%%%##%%%%%%%%%</text>
+<text x="10" y="74" textLength="312" lengthAdjust="spacingAndGlyphs">                     #%%%%%#*+==---+=*+=--+*#%%%%###</text>
+<text x="10" y="85" textLength="312" lengthAdjust="spacingAndGlyphs">                    #%%%%%#+==--::::::::::--=+#%%%%%</text>
+<text x="10" y="96" textLength="312" lengthAdjust="spacingAndGlyphs">                    #%%%%%#+=====--::::::::-=+#%%%##</text>
+<text x="10" y="107" textLength="306" lengthAdjust="spacingAndGlyphs">                     %%%%%#*****####******++++#%%%%</text>
+<text x="10" y="118" textLength="306" lengthAdjust="spacingAndGlyphs">                     ##%%#+++***+++=.=**###*+*#%%%%</text>
+<text x="10" y="129" textLength="300" lengthAdjust="spacingAndGlyphs">                     ***#*=--:::-=-:.:------==*%#*</text>
+<text x="10" y="140" textLength="300" lengthAdjust="spacingAndGlyphs">                      +=+++=====+**+=+===---:-++==</text>
+<text x="10" y="151" textLength="300" lengthAdjust="spacingAndGlyphs">                       ==+++**+++++++====++===---=</text>
+<text x="10" y="162" textLength="288" lengthAdjust="spacingAndGlyphs">                        +*++===++=--:-=*#+++==:-</text>
+<text x="10" y="173" textLength="276" lengthAdjust="spacingAndGlyphs">                          **++=========--===+*</text>
+<text x="10" y="184" textLength="270" lengthAdjust="spacingAndGlyphs">                          #**++==--:::--=++*#</text>
+<text x="10" y="195" textLength="270" lengthAdjust="spacingAndGlyphs">                           *#######**++++*#++</text>
+<text x="10" y="206" textLength="270" lengthAdjust="spacingAndGlyphs">                           **##%%%%%%%%##*+==</text>
+<text x="10" y="217" textLength="276" lengthAdjust="spacingAndGlyphs">                         **++*###%%%%##*+===++</text>
+<text x="10" y="228" textLength="282" lengthAdjust="spacingAndGlyphs">                        ***+++*****++++==---+*=</text>
+<text x="10" y="239" textLength="294" lengthAdjust="spacingAndGlyphs">                     +=++**++++****++++=----=*++=</text>
+<text x="10" y="250" textLength="318" lengthAdjust="spacingAndGlyphs">                 ++==+++***++++++++++======-=+++==-==</text>
+<text x="10" y="261" textLength="336" lengthAdjust="spacingAndGlyphs">            =====++=*++***+++++++++++=====-=+++========-</text>
+<text x="10" y="272" textLength="366" lengthAdjust="spacingAndGlyphs">        -=-====+===*+=++***+==+==+++===---++++======++===----</text>
+<text x="10" y="283" textLength="390" lengthAdjust="spacingAndGlyphs">     --======+==++*++==++*#%%#*-------::-**+==========+=====----=</text>
+<text x="10" y="294" textLength="402" lengthAdjust="spacingAndGlyphs">   ==+==+======++*+++########%%%+:::::=+++++=====+*++++==+======--=</text>
+<text x="10" y="305" textLength="414" lengthAdjust="spacingAndGlyphs">  ==+++++**+==*+++++++++++****#**#+-=++=++=**###*+++++++=+++=======-=</text>
+<text x="10" y="316" textLength="414" lengthAdjust="spacingAndGlyphs">  ++*+*+++*++**+++++++++++++**+**++++*%%%%#+++++===+++++=+++++++++===</text>
+<text x="10" y="327" textLength="420" lengthAdjust="spacingAndGlyphs"> +++****++*#**++++++++++++++++++*######***++++++++=++++++++*++*++++===</text>
+<text x="10" y="338" textLength="420" lengthAdjust="spacingAndGlyphs">++++**+*+++***++++++++++++++*++*+++++*+++++++++++++==++++++*+*****+===</text>
+<text x="10" y="349" textLength="426" lengthAdjust="spacingAndGlyphs">+**+**********++++++++++++++++******++++++++++++++++++++++*********+===</text>
 </g>
 </svg>
